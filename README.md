@@ -39,7 +39,6 @@ I'm Himanshu, a passionate Full Stack Developer from India currently pursuing Co
 - 🌟 5 Star coder at HackerRank
 - 🌟 4 Star rated coder at LeetCode (max rating: 2003, Top 2.67%)
 - 🌟 3 Star rated coder at CodeChef (max rating: 1654)
-- 🎯 AIR 5410 in JEE Mains 2021 (99.51 percentile)
 - 🏅 Team AIR 77 in Amazon ML Challenge 2024
 
 ## 📊 GitHub Stats
