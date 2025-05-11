@@ -1,29 +1,101 @@
-<h1 align="center">Hi 👋, I'm Himanshu Baurai</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img src="https://pcilearning.com/wp-content/uploads/2019/12/full_stack_web_2.jpg" width=400px align=right alt="web developer" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+Himanshu+Baurai;Full+Stack+Developer;AI+and+ML+Enthusiast&center=true&width=380&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshubaurai&label=Profile%20views&color=0e75b6&style=flat" alt="himanshubaurai" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-- 🔭 I’m currently working on **my skills**
+I'm Himanshu, a passionate Full Stack Developer from India currently pursuing Computer Engineering at Delhi Technological University. My journey in tech is driven by my curiosity to build innovative solutions that make a difference.
 
-- 👯 I’m looking to collaborate on **various web dev and also open to different fields also**
+## 🚀 Quick Overview
 
-- 📫 How to reach me **himanshucosmicera@gmail.com**
+- 🔭 Currently working at **Adobe as a Product Intern**
+- 🧠 Exploring **Multimodal LLMs and RAG capabilities**
+- 🌱 Building **Agentic AI workflows with Langchain**
+- 💬 Ask me about **MERN Stack, Python, C++, Data Structures**
+- 📫 Reach me at **himanshucosmicera@gmail.com**
+- ⚡ Fun fact: **I mentor govt. school students through Desh Ke Mentor program**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himanshu baurai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu baurai" height="30" width="40" /></a>
-<a href="https://instagram.com/himanshu_baurai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu_baurai" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshubaurai&show_icons=true&locale=en&layout=compact" alt="himanshubaurai" /></p>
+## 🏆 Achievements
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshubaurai&" alt="himanshubaurai" /></p>
+- 🌟 5 Star coder at HackerRank
+- 🌟 4 Star rated coder at LeetCode (max rating: 2003, Top 2.67%)
+- 🌟 3 Star rated coder at CodeChef (max rating: 1654)
+- 🎯 AIR 5410 in JEE Mains 2021 (99.51 percentile)
+- 🏅 Team AIR 77 in Amazon ML Challenge 2024
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/HimanshuBaurai">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HimanshuBaurai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/HimanshuBaurai">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuBaurai&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+  <a href="https://github.com/HimanshuBaurai">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuBaurai&theme=tokyonight" alt="HimanshuBaurai's streak"/>
+  </a>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/HimanshuBaurai">
+    <img src="https://github-profile-trophy.vercel.app/?username=HimanshuBaurai&theme=nord&column=7" alt="HimanshuBaurai's trophies"/>
+  </a>
+</div>
+
+## 🔥 Featured Projects
+
+<a href="https://github.com/HimanshuBaurai/NexusAI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimanshuBaurai&repo=NexusAI&theme=tokyonight" />
+</a>
+<a href="https://github.com/HimanshuBaurai/KnowledgeFlow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimanshuBaurai&repo=KnowledgeFlow&theme=tokyonight" />
+</a>
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/himanshu-baurai-283b4022a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:himanshucosmicera@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/himanshu_baurai" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HimanshuBaurai&color=blueviolet&style=for-the-badge" alt="Profile views">
+</div>
+
 
 
 <!---
