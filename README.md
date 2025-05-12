@@ -70,10 +70,10 @@ I'm Himanshu, a passionate Full Stack Developer from India currently pursuing Co
 
 ## 🔥 Featured Projects
 
-<a href="https://github.com/HimanshuBaurai/NexusAI">
+<a href="https://github.com/HimanshuBaurai/NexusAI-Multi-Agent-Intelligence-Hub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimanshuBaurai&repo=NexusAI-Multi-Agent-Intelligence-Hub&theme=tokyonight" />
 </a>
-<a href="https://github.com/HimanshuBaurai/KnowledgeFlow">
+<a href="https://github.com/HimanshuBaurai/KnowledgeFlow-Online-Course-Platform">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HimanshuBaurai&repo=KnowledgeFlow-Online-Course-Platform&theme=tokyonight" />
 </a>
 
